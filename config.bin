@@ -1,0 +1,29 @@
+NUM_OF_GAMES =		3
+
+NAME_GAME_1 =       Operation FlashPoint
+NAME_GAME_2 =       ArmA
+NAME_GAME_3 =       ArmA II
+
+PATH_USING_G1 =     /usingOFP.bin
+PATH_USING_G2 =     /usingA.bin
+PATH_USING_G3 =     /UsingA2.bin
+
+PATH_LOGO_G1 =      /OFP_logo.png
+PATH_LOGO_G2 =      /ARMA_logo.png
+PATH_LOGO_G3 =      /ARMA2_logo.png
+
+PATH_EXE_NUM_G1 = 	4
+
+PATH_EXE_G1 =		/Arma Cold War Assault.url
+PATH_EXE_G1 =		/ColdWarAssault.exe
+PATH_EXE_G1 =		/FlashpointResistance.exe
+PATH_EXE_G1 =		/OperationFlashpoint.exe
+
+PATH_EXE_NUM_G2 = 	1
+PATH_EXE_G2 =		/arma.exe
+
+PATH_EXE_NUM_G3 = 	4
+PATH_EXE_G3 =		/Arma 2 Operation Arrowhead.url1
+PATH_EXE_G3 =		/ArmA2OA.exe1
+PATH_EXE_G3 =		/Arma 2.url
+PATH_EXE_G3 =		/arma2.exe
